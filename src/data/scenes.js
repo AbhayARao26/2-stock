@@ -1,0 +1,17 @@
+export const scenes = [
+  { time: 0, image: '/images/1.svg' },
+  { time: 4, image: '/images/2.svg' },
+  { time: 8, image: '/images/3.svg' },
+  { time: 12, image: '/images/4.svg' },
+  { time: 16, image: '/images/5.svg' },
+  { time: 20, image: '/images/6.svg' },
+  { time: 24, image: '/images/7.svg' },
+  { time: 28, image: '/images/8.svg' },
+  { time: 32, image: '/images/9.svg' },
+  { time: 36, image: '/images/10.svg' },
+  { time: 40, image: '/images/11.svg' },
+  { time: 44, image: '/images/12.svg' },
+  { time: 48, image: '/images/13.svg' },
+  { time: 52, image: '/images/14.svg' },
+  { time: 56, image: '/images/15.svg' },
+];
